@@ -10,6 +10,6 @@ result
            [11] -33.000000   2.166667
 
 # Store as a third object the values returned by omitting the first and last values of your vector from (6.).
-b <- result[-c(1,12)]
-b
+d <- result[-c(1,12)]
+d
 # Output  [1]   3.75   4.50   5.25   6.00   2.00  -5.10 -33.00   2.00  -5.10 -33.00
