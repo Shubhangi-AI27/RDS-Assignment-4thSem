@@ -8,7 +8,7 @@ result <- c(x,y,z)
 result
 
 #Output  [1]   3.000000   3.750000   4.500000   5.250000   6.000000   2.000000  -5.100000 -33.000000   2.000000  -5.100000
-         [11] -33.000000   2.166667
+        #[11] -33.000000   2.166667
 
 # Extract the first and last elements of your vector from (6.), storing them as a new object.
 b <- result[c(1,12)]
