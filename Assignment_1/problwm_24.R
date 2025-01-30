@@ -1,3 +1,4 @@
+#  Middle Element Replacement:
 replacement_values <- c(-0.5, -200, -0.5)
 
 # Replace the middle three elements (positions 9, 10, and 11)
